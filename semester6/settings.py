@@ -51,6 +51,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = "semester6.urls"
+STATIC_URL = '/static/'
 
 TEMPLATES = [
     {
